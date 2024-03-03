@@ -1,0 +1,3 @@
+activate the env myenv
+to run fastApi.py => uvicorn fastApi:app --reload
+the go to http://localhost:8000/docs
